@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; background:#f4f7fb; margin:0; }
+.container { width:85%; margin:40px auto; background:white; padding:30px; border-radius:12px; }
+h1 { margin-bottom:5px; }
+form { display:grid; grid-template-columns:repeat(2,1fr); gap:12px; margin:25px 0; }
+input, button { padding:12px; border:1px solid #ccc; border-radius:6px; }
+button { cursor:pointer; font-weight:bold; }
+table { width:100%; border-collapse:collapse; }
+th, td { padding:12px; border:1px solid #ddd; text-align:left; }
